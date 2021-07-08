@@ -1,2 +1,3 @@
 from sklearn.datasets import load_iris
-from sklearn.ensemble import RandomForestClassifier
+a=1
+print(a)
